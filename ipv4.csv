@@ -1,0 +1,16 @@
+44.32.191.0/24,HK,,,
+44.32.191.6/32,HK,,, # 香港MD IXVM
+44.32.191.7/32,CN,CN-ZJ,Hangzhou, # 杭州骨干节点
+44.32.191.8/32,CN,CN-ZJ,Hangzhou, # 杭州西湖区域骨干/接入
+44.32.191.9/32,CN,CN-SH,Shanghai, # 上海SHIXP跨境节点
+44.32.191.11/32,JP,JP-13,Tokyo, # EQIX-TY9
+44.32.191.12/32,CA,CA-ON,Toronto, # CXIX-CAN
+44.32.191.13/32,JP,JP-13,Tokyo, # EQIX-TY8
+44.32.191.16/28,CN,CN-ZJ,Hangzhou, # 杭州西湖接入
+44.32.191.32/28,CN,CN-ZJ,Hangzhou, 
+44.32.191.48/28,JP,JP-13,Tokyo,
+44.32.191.64/28,JP,JP-13,Tokyo, # 东京EQ TY9 IDC CIDR
+44.32.191.80/28,CN,CN-JL,Changchun, # 长春工程学院
+44.32.191.96/28,CN,CN-JL,Changchun, # 长春理工大学
+44.32.191.112/28,CN,CN-JL,Changchun, # 长春朝阳
+44.32.191.128/28,CN,CN-JL,Antu, # 吉林延边-郑大丽专用
