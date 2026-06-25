@@ -1,5 +1,5 @@
 # BRICK Network Geofeed
-# Last Commit: 2026-06-22 09:29:02
+# Last Commit: 2026-06-25 02:35:32
 # Geofeed format: ip_prefix,country_code,region_code,city_name,postal_code
 
 # From: data/brnet.csv
@@ -9,7 +9,6 @@
 44.32.191.0/24,HK,,,
 44.32.191.11/32,JP,JP-13,Tokyo,
 44.32.191.12/32,CA,CA-ON,Toronto,
-44.32.191.128/28,CN,CN-JL,Antu,
 44.32.191.13/32,JP,JP-13,Tokyo,
 44.32.191.16/27,CN,CN-ZJ,Hangzhou,
 44.32.191.48/27,JP,JP-13,Tokyo,
@@ -26,4 +25,5 @@
 2a12:cb41:1300::/44,HK,,Hong Kong,
 2a12:cb41:1310::/44,SG,SG-01,Singapore,
 2a12:cb41:13f0::/44,,,,
+44.32.191.128/28,CN,CN-JL,Antu,
 
